@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="183" height="44.009" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com" data-name="Layer 2">
+ <defs>
+  <style>.cls-1{fill:#594cda;fill-rule:evenodd;}.cls-2{fill:#252c38;}</style>
+ </defs>
+ <title>logo</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path class="cls-1" d="m9.9,31.956c0,3.574 -4.079,9.192 -9.9,12.044a42.245,42.245 0 0 0 22.155,-6.023a37.95,37.95 0 0 0 6.845,0.723a28.667,28.667 0 0 0 17.765,-5.717c4.595,-3.475 7.352,-8.274 7.352,-13.685c0,-5.312 -2.757,-10.11 -7.352,-13.685a29.289,29.289 0 0 0 -17.765,-5.613a29.52,29.52 0 0 0 -17.769,5.609c-4.593,3.576 -7.348,8.374 -7.348,13.686a16.864,16.864 0 0 0 6.017,12.661l0,0z" id="svg_1" transform="translate(0 0.004)"/>
+  <text fill="#000000" font-family="Sans-serif" font-size="24" font-style="normal" font-weight="bold" id="svg_10" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1.47961 0 0 1.81387 -43.0212 53.6255)" x="113.202391" xml:space="preserve" y="-7.679386">Stator</text>
+  <text fill="#ff0000" font-family="Sans-serif" font-size="24" font-style="normal" font-weight="bold" id="svg_14" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1.47961 0 0 1.81387 -43.0212 53.6255)" x="72.239723" xml:space="preserve" y="-7.76772">i</text>
+ </g>
+</svg>
